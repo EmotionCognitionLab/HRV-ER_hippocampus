@@ -1,2 +1,2 @@
-# HRV-ER-OFCvolume
-For analysis for structural volume change in OFC ROIs in HRV-ER project
+# HRV-ER-hippocampal subfield volume
+For analysis for structural volume change in hippocampal ROI in HRV-ER project
